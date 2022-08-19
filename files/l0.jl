@@ -28,7 +28,7 @@ md"Lista 0, versão 2 -- 2º sem 2022"
 # ╔═╡ 7308bc54-e6cd-11ea-0eab-83f7535edf25
 # Edite o código abaixo com o seu nome e email da DAC (sem o @unincamp.br)
 
-student = (name = "Ricardo R. da Silva", email_dac = "r120094")
+student = (name = "Ricardo Raimundo da Silva", email_dac = "r120094")
 
 # Preciosne o botão ▶ no canto inferior direito desta célula para rodar com os novos 
 # dados ou use Shift+Enter
